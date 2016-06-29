@@ -1,0 +1,14 @@
+30
+15ab
+-5ab
+-50x-50y
+-20ax-20ay
+0
+0
+aby
+abx
+-bx-by
+x+y
+x+y
+-x-y
+-8
